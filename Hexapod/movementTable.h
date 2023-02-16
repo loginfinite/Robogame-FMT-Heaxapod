@@ -1,0 +1,10 @@
+#ifndef UARTTEST_MOVEMENTTABLE_H
+#define UARTTEST_MOVEMENTTABLE_H
+#include "Servo.h"
+void movement_leg_hold_up();
+void movement_rotate_right();
+void movement_upper_rolling_pos();
+void movement_up_hold();
+void movement_up_crawl_hold();
+void movement_up_half_open();
+#endif //UARTTEST_MOVEMENTTABLE_H
